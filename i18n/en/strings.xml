@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="abUs">About Us</string>	
+	<string name="unitConv">Converter</string>
+	<string name="calc">Calculator</string>
+	<string name="ref">Reference</string>
+	<string name="openWindow">Open New Window</string>
+	<string name="newWindow">New Window</string>
+</resources>
